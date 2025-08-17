@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Ground Truth images</folder>
+	<filename>673.JPG</filename>
+	<path>D:\Projects\Project phase 1\Ground Truth images\673.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5184</width>
+		<height>3456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>RJ 14 CX 6736</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2493</xmin>
+			<ymin>1674</ymin>
+			<xmax>3511</xmax>
+			<ymax>1977</ymax>
+		</bndbox>
+	</object>
+</annotation>

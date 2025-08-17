@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Ground Truth images</folder>
+	<filename>252.JPG</filename>
+	<path>D:\Projects\Project phase 1\Ground Truth images\252.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5184</width>
+		<height>3456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>252.jpg - RJ45CN0760</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2058</xmin>
+			<ymin>1249</ymin>
+			<xmax>3436</xmax>
+			<ymax>1656</ymax>
+		</bndbox>
+	</object>
+</annotation>

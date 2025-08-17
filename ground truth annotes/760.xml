@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Ground Truth images</folder>
+	<filename>760.JPG</filename>
+	<path>D:\Projects\Project phase 1\Ground Truth images\760.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5184</width>
+		<height>3456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>JH 01 AK 7059</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1343</xmin>
+			<ymin>2799</ymin>
+			<xmax>2529</xmax>
+			<ymax>3095</ymax>
+		</bndbox>
+	</object>
+</annotation>

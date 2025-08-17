@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Ground Truth images</folder>
+	<filename>424.JPG</filename>
+	<path>D:\Projects\Project phase 1\Ground Truth images\424.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5184</width>
+		<height>3456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>GJ 38 B 5194</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1497</xmin>
+			<ymin>1663</ymin>
+			<xmax>2697</xmax>
+			<ymax>1984</ymax>
+		</bndbox>
+	</object>
+</annotation>

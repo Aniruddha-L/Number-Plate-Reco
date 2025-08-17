@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Ground Truth images</folder>
+	<filename>772.JPG</filename>
+	<path>D:\Projects\Project phase 1\Ground Truth images\772.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5184</width>
+		<height>3456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>DL 6 CS 9118</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1751</xmin>
+			<ymin>1706</ymin>
+			<xmax>3379</xmax>
+			<ymax>2195</ymax>
+		</bndbox>
+	</object>
+</annotation>

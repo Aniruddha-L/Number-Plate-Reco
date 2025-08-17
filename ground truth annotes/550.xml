@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Ground Truth images</folder>
+	<filename>550.JPG</filename>
+	<path>D:\Projects\Project phase 1\Ground Truth images\550.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5184</width>
+		<height>3456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>PB 08 BT 9874</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1647</xmin>
+			<ymin>2716</ymin>
+			<xmax>2911</xmax>
+			<ymax>2977</ymax>
+		</bndbox>
+	</object>
+</annotation>

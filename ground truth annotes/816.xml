@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Ground Truth images</folder>
+	<filename>816.JPG</filename>
+	<path>D:\Projects\Project phase 1\Ground Truth images\816.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5184</width>
+		<height>3456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>RJ 14 CE 1733</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1204</xmin>
+			<ymin>1938</ymin>
+			<xmax>2115</xmax>
+			<ymax>2231</ymax>
+		</bndbox>
+	</object>
+</annotation>

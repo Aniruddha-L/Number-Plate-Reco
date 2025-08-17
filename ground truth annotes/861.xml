@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Ground Truth images</folder>
+	<filename>861.jpg</filename>
+	<path>D:\Projects\Project phase 1\Ground Truth images\861.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>404</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>RJ 14 TE 0516</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>236</xmin>
+			<ymin>255</ymin>
+			<xmax>341</xmax>
+			<ymax>286</ymax>
+		</bndbox>
+	</object>
+</annotation>

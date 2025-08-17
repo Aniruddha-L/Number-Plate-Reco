@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Ground Truth images</folder>
+	<filename>752.JPG</filename>
+	<path>D:\Projects\Project phase 1\Ground Truth images\752.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5184</width>
+		<height>3456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>UP 20 BA 5991</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1851</xmin>
+			<ymin>2581</ymin>
+			<xmax>3315</xmax>
+			<ymax>2913</ymax>
+		</bndbox>
+	</object>
+</annotation>

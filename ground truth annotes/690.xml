@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Ground Truth images</folder>
+	<filename>690.JPG</filename>
+	<path>D:\Projects\Project phase 1\Ground Truth images\690.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5184</width>
+		<height>3456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>RJ 14 CX 6821</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2015</xmin>
+			<ymin>2006</ymin>
+			<xmax>3068</xmax>
+			<ymax>2327</ymax>
+		</bndbox>
+	</object>
+</annotation>

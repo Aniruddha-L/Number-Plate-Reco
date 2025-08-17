@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Ground Truth images</folder>
+	<filename>915.JPG</filename>
+	<path>D:\Projects\Project phase 1\Ground Truth images\915.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5184</width>
+		<height>3456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>RJ 01 CC 8226</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1347</xmin>
+			<ymin>2095</ymin>
+			<xmax>2761</xmax>
+			<ymax>2477</ymax>
+		</bndbox>
+	</object>
+</annotation>

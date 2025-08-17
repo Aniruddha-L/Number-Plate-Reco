@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Ground Truth images</folder>
+	<filename>408.JPG</filename>
+	<path>D:\Projects\Project phase 1\Ground Truth images\408.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5184</width>
+		<height>3456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>RJ 45 CT 6689</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1815</xmin>
+			<ymin>2074</ymin>
+			<xmax>3051</xmax>
+			<ymax>2356</ymax>
+		</bndbox>
+	</object>
+</annotation>

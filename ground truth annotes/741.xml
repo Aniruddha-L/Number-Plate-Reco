@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Ground Truth images</folder>
+	<filename>741.JPG</filename>
+	<path>D:\Projects\Project phase 1\Ground Truth images\741.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5184</width>
+		<height>3456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>UP 16 CF 3544</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1454</xmin>
+			<ymin>2334</ymin>
+			<xmax>2758</xmax>
+			<ymax>2656</ymax>
+		</bndbox>
+	</object>
+</annotation>

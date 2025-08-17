@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Ground Truth images</folder>
+	<filename>441.JPG</filename>
+	<path>D:\Projects\Project phase 1\Ground Truth images\441.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5184</width>
+		<height>3456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>RJ 14 NC 3343</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1833</xmin>
+			<ymin>2441</ymin>
+			<xmax>3190</xmax>
+			<ymax>2731</ymax>
+		</bndbox>
+	</object>
+</annotation>

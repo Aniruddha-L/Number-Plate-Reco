@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Ground Truth images</folder>
+	<filename>879.JPG</filename>
+	<path>D:\Projects\Project phase 1\Ground Truth images\879.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5184</width>
+		<height>3456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>RJ 08 CA 6767</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2854</xmin>
+			<ymin>1738</ymin>
+			<xmax>3661</xmax>
+			<ymax>1974</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Ground Truth images</folder>
+	<filename>312.JPG</filename>
+	<path>D:\Projects\Project phase 1\Ground Truth images\312.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5184</width>
+		<height>3456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>RJ 02 CC 9572</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1501</xmin>
+			<ymin>895</ymin>
+			<xmax>2393</xmax>
+			<ymax>1245</ymax>
+		</bndbox>
+	</object>
+</annotation>

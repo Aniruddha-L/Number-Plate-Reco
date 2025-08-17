@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Ground Truth images</folder>
+	<filename>596.JPG</filename>
+	<path>D:\Projects\Project phase 1\Ground Truth images\596.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5184</width>
+		<height>3456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>UP 25 AH 3279</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1811</xmin>
+			<ymin>2381</ymin>
+			<xmax>2908</xmax>
+			<ymax>2616</ymax>
+		</bndbox>
+	</object>
+</annotation>

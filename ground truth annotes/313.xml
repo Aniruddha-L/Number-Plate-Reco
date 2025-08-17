@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Ground Truth images</folder>
+	<filename>313.JPG</filename>
+	<path>D:\Projects\Project phase 1\Ground Truth images\313.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5184</width>
+		<height>3456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>RJ 14 UF 7821</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1611</xmin>
+			<ymin>1666</ymin>
+			<xmax>2340</xmax>
+			<ymax>1941</ymax>
+		</bndbox>
+	</object>
+</annotation>

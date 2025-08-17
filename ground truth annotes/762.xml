@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Ground Truth images</folder>
+	<filename>762.JPG</filename>
+	<path>D:\Projects\Project phase 1\Ground Truth images\762.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5184</width>
+		<height>3456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>DL 2 CAY 9702</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1583</xmin>
+			<ymin>1934</ymin>
+			<xmax>2818</xmax>
+			<ymax>2284</ymax>
+		</bndbox>
+	</object>
+</annotation>

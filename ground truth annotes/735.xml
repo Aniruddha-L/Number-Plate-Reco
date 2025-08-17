@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Ground Truth images</folder>
+	<filename>735.JPG</filename>
+	<path>D:\Projects\Project phase 1\Ground Truth images\735.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5184</width>
+		<height>3456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>UP 15 BK 9620</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2422</xmin>
+			<ymin>1852</ymin>
+			<xmax>3243</xmax>
+			<ymax>2152</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Ground Truth images</folder>
+	<filename>755.JPG</filename>
+	<path>D:\Projects\Project phase 1\Ground Truth images\755.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5184</width>
+		<height>3456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>DL 2 CAZ 6941</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1447</xmin>
+			<ymin>1702</ymin>
+			<xmax>2622</xmax>
+			<ymax>1977</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Ground Truth images</folder>
+	<filename>828.JPG</filename>
+	<path>D:\Projects\Project phase 1\Ground Truth images\828.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5184</width>
+		<height>3456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>RJ 07 CA 5369</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1501</xmin>
+			<ymin>2138</ymin>
+			<xmax>2951</xmax>
+			<ymax>2566</ymax>
+		</bndbox>
+	</object>
+</annotation>

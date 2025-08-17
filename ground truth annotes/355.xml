@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Ground Truth images</folder>
+	<filename>355.JPG</filename>
+	<path>D:\Projects\Project phase 1\Ground Truth images\355.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5184</width>
+		<height>3456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>RJ 14 CQ 6834</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1486</xmin>
+			<ymin>2224</ymin>
+			<xmax>2554</xmax>
+			<ymax>2516</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Ground Truth images</folder>
+	<filename>860.jpg</filename>
+	<path>D:\Projects\Project phase 1\Ground Truth images\860.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>348</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>DL 8 CBB 3906</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>206</xmin>
+			<ymin>301</ymin>
+			<xmax>290</xmax>
+			<ymax>330</ymax>
+		</bndbox>
+	</object>
+</annotation>

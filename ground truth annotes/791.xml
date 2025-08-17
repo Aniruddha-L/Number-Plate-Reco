@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Ground Truth images</folder>
+	<filename>791.JPG</filename>
+	<path>D:\Projects\Project phase 1\Ground Truth images\791.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5184</width>
+		<height>3456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>HP 53 B 4385</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2322</xmin>
+			<ymin>2491</ymin>
+			<xmax>3793</xmax>
+			<ymax>2809</ymax>
+		</bndbox>
+	</object>
+</annotation>

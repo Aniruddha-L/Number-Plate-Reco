@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Ground Truth images</folder>
+	<filename>289.JPG</filename>
+	<path>D:\Projects\Project phase 1\Ground Truth images\289.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5184</width>
+		<height>3456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>289.jpg - RJ 42 C 4092</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2318</xmin>
+			<ymin>2149</ymin>
+			<xmax>3136</xmax>
+			<ymax>2345</ymax>
+		</bndbox>
+	</object>
+</annotation>

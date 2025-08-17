@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Ground Truth images</folder>
+	<filename>82.JPG</filename>
+	<path>D:\Projects\Project phase 1\Ground Truth images\82.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5184</width>
+		<height>3456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>RJ 29 CA 5938</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>811</xmin>
+			<ymin>1724</ymin>
+			<xmax>2443</xmax>
+			<ymax>2174</ymax>
+		</bndbox>
+	</object>
+</annotation>

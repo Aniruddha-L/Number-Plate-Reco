@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Ground Truth images</folder>
+	<filename>284.JPG</filename>
+	<path>D:\Projects\Project phase 1\Ground Truth images\284.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5184</width>
+		<height>3456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>284.jpg - RJ 14 CR 3822</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1833</xmin>
+			<ymin>2116</ymin>
+			<xmax>2893</xmax>
+			<ymax>2574</ymax>
+		</bndbox>
+	</object>
+</annotation>

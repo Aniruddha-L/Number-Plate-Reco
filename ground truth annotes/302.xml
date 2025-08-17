@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Ground Truth images</folder>
+	<filename>302.JPG</filename>
+	<path>D:\Projects\Project phase 1\Ground Truth images\302.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5184</width>
+		<height>3456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>RJ 27 CG 1234</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>72</xmin>
+			<ymin>1216</ymin>
+			<xmax>1397</xmax>
+			<ymax>1552</ymax>
+		</bndbox>
+	</object>
+</annotation>

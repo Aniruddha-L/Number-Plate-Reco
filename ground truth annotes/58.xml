@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Ground Truth images</folder>
+	<filename>58.jpg</filename>
+	<path>D:\Projects\Project phase 1\Ground Truth images\58.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>900</width>
+		<height>350</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>99.jpg - RJ14CU4226</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>350</xmin>
+			<ymin>205</ymin>
+			<xmax>575</xmax>
+			<ymax>249</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Ground Truth images</folder>
+	<filename>42.jpg</filename>
+	<path>D:\Projects\Project phase 1\Ground Truth images\42.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>250</width>
+		<height>179</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>83.jpg - RJ10CA5546</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>19</xmin>
+			<ymin>39</ymin>
+			<xmax>245</xmax>
+			<ymax>148</ymax>
+		</bndbox>
+	</object>
+</annotation>

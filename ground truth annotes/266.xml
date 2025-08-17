@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Ground Truth images</folder>
+	<filename>266.JPG</filename>
+	<path>D:\Projects\Project phase 1\Ground Truth images\266.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5184</width>
+		<height>3456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>266.jpg - RJ14 UE 9133</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>633</xmin>
+			<ymin>1041</ymin>
+			<xmax>2483</xmax>
+			<ymax>1502</ymax>
+		</bndbox>
+	</object>
+</annotation>

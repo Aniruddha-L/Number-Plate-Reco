@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Ground Truth images</folder>
+	<filename>787.JPG</filename>
+	<path>D:\Projects\Project phase 1\Ground Truth images\787.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5184</width>
+		<height>3456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>UP 16 AD 8515</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1722</xmin>
+			<ymin>2559</ymin>
+			<xmax>3068</xmax>
+			<ymax>2970</ymax>
+		</bndbox>
+	</object>
+</annotation>

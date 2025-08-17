@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Ground Truth images</folder>
+	<filename>889.JPG</filename>
+	<path>D:\Projects\Project phase 1\Ground Truth images\889.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5184</width>
+		<height>3456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>RJ 45 CP 1665</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1458</xmin>
+			<ymin>1563</ymin>
+			<xmax>2815</xmax>
+			<ymax>1945</ymax>
+		</bndbox>
+	</object>
+</annotation>

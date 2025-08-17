@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Ground Truth images</folder>
+	<filename>19.jpg</filename>
+	<path>D:\Projects\Project phase 1\Ground Truth images\19.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>486</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>100.jpg - GJ01HX6515</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>191</xmin>
+			<ymin>226</ymin>
+			<xmax>446</xmax>
+			<ymax>302</ymax>
+		</bndbox>
+	</object>
+</annotation>

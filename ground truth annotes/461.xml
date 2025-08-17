@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Ground Truth images</folder>
+	<filename>461.JPG</filename>
+	<path>D:\Projects\Project phase 1\Ground Truth images\461.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5184</width>
+		<height>3456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>RJ 14 CW 1676</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1529</xmin>
+			<ymin>1749</ymin>
+			<xmax>2997</xmax>
+			<ymax>2081</ymax>
+		</bndbox>
+	</object>
+</annotation>

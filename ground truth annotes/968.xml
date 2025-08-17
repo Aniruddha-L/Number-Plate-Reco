@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Ground Truth images</folder>
+	<filename>968.JPG</filename>
+	<path>D:\Projects\Project phase 1\Ground Truth images\968.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5184</width>
+		<height>3456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>RJ 20 CB 5507</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2476</xmin>
+			<ymin>1356</ymin>
+			<xmax>3286</xmax>
+			<ymax>1563</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Ground Truth images</folder>
+	<filename>287.JPG</filename>
+	<path>D:\Projects\Project phase 1\Ground Truth images\287.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5184</width>
+		<height>3456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>287.jpg - RJ 13 CC 9939</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1933</xmin>
+			<ymin>1974</ymin>
+			<xmax>2854</xmax>
+			<ymax>2520</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Ground Truth images</folder>
+	<filename>991.JPG</filename>
+	<path>D:\Projects\Project phase 1\Ground Truth images\991.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5184</width>
+		<height>3456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>HR 35 P 9801</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2665</xmin>
+			<ymin>1984</ymin>
+			<xmax>3454</xmax>
+			<ymax>2238</ymax>
+		</bndbox>
+	</object>
+</annotation>

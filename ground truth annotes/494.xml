@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Ground Truth images</folder>
+	<filename>494.JPG</filename>
+	<path>D:\Projects\Project phase 1\Ground Truth images\494.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5184</width>
+		<height>3456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>KA 20 MA 8155</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2176</xmin>
+			<ymin>1649</ymin>
+			<xmax>3483</xmax>
+			<ymax>1952</ymax>
+		</bndbox>
+	</object>
+</annotation>

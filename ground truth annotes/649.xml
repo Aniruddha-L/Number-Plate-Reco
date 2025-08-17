@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Ground Truth images</folder>
+	<filename>649.JPG</filename>
+	<path>D:\Projects\Project phase 1\Ground Truth images\649.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5184</width>
+		<height>3456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>RJ 14 AC 3937</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2265</xmin>
+			<ymin>1770</ymin>
+			<xmax>3636</xmax>
+			<ymax>2216</ymax>
+		</bndbox>
+	</object>
+</annotation>

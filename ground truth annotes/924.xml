@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Ground Truth images</folder>
+	<filename>924.JPG</filename>
+	<path>D:\Projects\Project phase 1\Ground Truth images\924.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5184</width>
+		<height>3456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>22 BH 1427 B</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2572</xmin>
+			<ymin>1866</ymin>
+			<xmax>3390</xmax>
+			<ymax>2124</ymax>
+		</bndbox>
+	</object>
+</annotation>

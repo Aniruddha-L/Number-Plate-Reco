@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Ground Truth images</folder>
+	<filename>931.JPG</filename>
+	<path>D:\Projects\Project phase 1\Ground Truth images\931.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5184</width>
+		<height>3456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>DL 8 CAK 3382</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2011</xmin>
+			<ymin>2174</ymin>
+			<xmax>3111</xmax>
+			<ymax>2516</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Ground Truth images</folder>
+	<filename>96.JPG</filename>
+	<path>D:\Projects\Project phase 1\Ground Truth images\96.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5184</width>
+		<height>3456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>RJ 14 VC 4705</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>761</xmin>
+			<ymin>2988</ymin>
+			<xmax>1704</xmax>
+			<ymax>3345</ymax>
+		</bndbox>
+	</object>
+</annotation>

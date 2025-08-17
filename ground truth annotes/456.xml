@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Ground Truth images</folder>
+	<filename>456.JPG</filename>
+	<path>D:\Projects\Project phase 1\Ground Truth images\456.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5184</width>
+		<height>3456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>RJ 14 ZC 6072</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1990</xmin>
+			<ymin>1999</ymin>
+			<xmax>3711</xmax>
+			<ymax>2449</ymax>
+		</bndbox>
+	</object>
+</annotation>

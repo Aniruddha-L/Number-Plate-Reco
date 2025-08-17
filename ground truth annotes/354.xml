@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Ground Truth images</folder>
+	<filename>354.JPG</filename>
+	<path>D:\Projects\Project phase 1\Ground Truth images\354.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5184</width>
+		<height>3456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>RJ 14 TB 1532</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1958</xmin>
+			<ymin>2599</ymin>
+			<xmax>3204</xmax>
+			<ymax>2838</ymax>
+		</bndbox>
+	</object>
+</annotation>
