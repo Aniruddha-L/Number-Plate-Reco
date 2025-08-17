@@ -12,15 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>82.jpg - RJ29CA5938</name>
+		<name>MH15-TC-554</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>583</xmin>
-			<ymin>279</ymin>
-			<xmax>699</xmax>
-			<ymax>314</ymax>
+			<xmin>587</xmin>
+			<ymin>281</ymin>
+			<xmax>695</xmax>
+			<ymax>315</ymax>
 		</bndbox>
 	</object>
 </annotation>

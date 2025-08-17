@@ -1,4 +1,4 @@
-<annotation>
+<annotation verified="yes">
 	<folder>Ground Truth images</folder>
 	<filename>8.jpg</filename>
 	<path>D:\Projects\Project phase 1\Ground Truth images\8.jpg</path>
@@ -12,7 +12,7 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>89.jpg - RJ14UG8714</name>
+		<name>HR 69 6969</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
